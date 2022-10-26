@@ -29,6 +29,8 @@
 * Учитывая некоторое падение спроса летом, стоит несколько снизить объемы закупок в этот период. При этом, его стоит нарастить ближе к зиме, когда активность покупателей вырастает. 
 
 ## Ссылки
+[**Просмотр тетрадки через nbviewer**](https://nbviewer.org/github/sashasepp/da_projects/blob/cfd04585fc0914ed272736609df9acf548354928/11_ecommerce_items_category_clustering/11_ecommerce_items_category_clustering.ipynb)
+
 [**Дашборд**](https://public.tableau.com/app/profile/alex.sepp/viz/E-commerce_16651439600140/Dashboard1?publish=yes)
 
 [**Презентация с отчетом**](https://disk.yandex.ru/i/xPno_6tnrlq2fg)
